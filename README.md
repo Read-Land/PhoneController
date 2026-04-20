@@ -21,8 +21,8 @@
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/PhoneControl.git
-cd PhoneControl
+git clone https://github.com/Read-Land/PhoneController.git
+cd PhoneController
 ```
 
 2. 创建虚拟环境
